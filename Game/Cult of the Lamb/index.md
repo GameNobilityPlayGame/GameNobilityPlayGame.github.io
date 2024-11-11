@@ -1,5 +1,7 @@
 ---
 layout: base
+tag: [Roguelite]
+
 ---
 
 # Cult of the Lamb

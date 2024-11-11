@@ -3,24 +3,29 @@ layout: page
 title: About
 ---
 
-*I do not remember making that decision. This life, it chose me.*  
-<p align="right"><i>−−Ezio</i></p>
+## V的設定
+* 名稱：叡智の木
+* 稱號：叡智を築く者
+* 形象：樹人
+* 台詞：
+  * 工作問題一律建議離職
+  * 感情問題一律建議分手
+  * 人生問題一律建議投胎
+  * 解決問題一律建議解決提問的人
+* 背景故事：
+<div>
+叡智之木的故事
+在古老的群山環繞下，有一片寧靜的樹林，樹林中矗立著一棵名為「叡智之木」的古樹。這棵樹的樹皮深邃而粗糙，葉子閃爍著綠色和金色的光芒。傳說中，叡智之木擁有無與倫比的智慧和深邃的魔力。
 
-In my previous life, I was an elf aged 314, working as a bard and painter. After unexpectedly hit by a truck, I was reincarnated into this world, with faint memories of I once knew.
+一位名叫小梅的年輕女子，她的村莊位於遠山之外，最近正受到糧食不足的困境。她滿懷希望，尋求叡智之木的幫助。
 
-In this new world, I'm trying to discover the source of mana. I continue my journey as a wandering, never abandoning my quest to return to my original world. I often delve into various ACGN realms, seeking any hint that could lead me back. To equip myself for this journey, I've accumulated vast  across numerous domains.
+小梅走近那棵巨大的樹，心中充滿敬畏，輕聲問道："叡智之木，我來尋求您的智慧。我怎樣才能拯救我的家園，阻止即將來臨的飢荒呢？"
 
+叡智之木的樹葉微微顫動，散發出輕柔的光輝。樹的聲音如低語般在空氣中回蕩："帶上你的家人來見我吧。"
 
-## Other Media Platforms
-  * Game Designer, learning Unity/Unreal
-  * Podcast
-    * [YT - 森羅Mage](https://youtube.com/@ShinraMage), 
-    * [Spotify - 森羅Mage](https://podcasters.spotify.com/pod/show/Shinramage)
-    * podcast sharing thoughs about ACGN
-  * [dailymotion - 森羅Mage](https://www.dailymotion.com/Shinramage)
-    * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
+小梅回到村莊，帶上她的家人和村民們，逐漸將他們引導到叡智之木面前。他們站在樹前，低聲討論，氣氛中充滿了期待和緊張。
 
+叡智之木開口："解決問題一律建議解決提問的人。"
 
-<div id="subbrands"></div>
-
-<script src="{{ '/assets/js/Sub_Brands.js' | relative_url }}"></script>
+話音未落，樹下的地面開始變化，長出纏繞的樹枝，將那些人群一一困住。最終，那些被困的人們逐漸融入森林，成為土地的養分。
+</div>
