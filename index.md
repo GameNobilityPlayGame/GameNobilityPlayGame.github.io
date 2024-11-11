@@ -2,12 +2,5 @@
 layout: base
 ---
 
-HomunMage Tools for Productivity, Coding, ......
-
-
-## [All pages list](./all)
-
-## [Productivity](./Productivity/)
-
-## [OS](./OS/)
+## [遊戲分析](./Game/)
 
