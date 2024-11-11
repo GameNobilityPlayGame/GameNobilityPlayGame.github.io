@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Cozy Grove
 tags: [Relaxing]
 
