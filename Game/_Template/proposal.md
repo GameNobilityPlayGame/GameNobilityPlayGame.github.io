@@ -1,7 +1,7 @@
 ---
 layout: page/design/proposal-zh
 title: Cult of the Lamb
-tags: [Roguelite]
+tags: [_Template]
 
 
 System: "<li>Rogue-lite<br>

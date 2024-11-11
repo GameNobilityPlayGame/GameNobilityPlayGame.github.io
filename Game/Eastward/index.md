@@ -1,6 +1,6 @@
 ---
 layout: base
-tags: [Roguelite]
+tags: [RPG, Pixel]
 
 ---
 
