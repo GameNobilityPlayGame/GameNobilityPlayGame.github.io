@@ -1,5 +1,6 @@
 ---
-layout: base
+layout: page
+title: Cult of the Lamb
 tags: [Roguelite]
 
 ---

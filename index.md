@@ -20,20 +20,14 @@ layout: base
     <ul>
       {% assign tag_pages = game_pages | where_exp: "page", "page.tags contains tag" %}
       {% for page in tag_pages %}
-        <a href="/{{ page.path | replace: " ", "%20" | remove: ".md" }}">
-          {% if forloop.last %}└{% else %}├{% endif %}
-          
-          {{ page.title }}
-          
-          {% if page.url contains "proposal" %}
-            一頁式提案
-          {% elsif page.url contains "analysis" %}
-            分析
-          {% else %}
-            心得
-          {% endif %}
-          
-        </a><br>
+        {% if page.url contains "proposal" %}
+        {% elsif page.url contains "analysis" %}
+        {% else %}
+          <a href="/{{ page.path | replace: " ", "%20" | remove: ".md" }}">
+            {% if forloop.last %}└{% else %}├{% endif %}          
+            {{ page.title }}
+          </a><br>
+        {% endif %}
       {% endfor %}
     </ul>
   {% endfor %}

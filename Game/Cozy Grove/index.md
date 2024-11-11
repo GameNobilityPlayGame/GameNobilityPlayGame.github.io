@@ -1,12 +1,10 @@
 ---
-layout: base
+layout: page
+title: Cozy Grove
 tags: [Relaxing]
 
 ---
 
-# Cozy Grove
-
-[Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 
 
 ## [一頁式提案](./proposal)

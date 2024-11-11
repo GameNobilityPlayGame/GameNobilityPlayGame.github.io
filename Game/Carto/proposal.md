@@ -1,8 +1,7 @@
 ---
 layout: page/design/proposal-zh
-title: Cult of the Lamb
+title: Carto
 tags: [Puzzle]
-
 
 
 System: "<li>Rogue-lite<br>

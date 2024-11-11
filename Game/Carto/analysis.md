@@ -1,10 +1,9 @@
 ---
-layout: base
+layout: page
+title: Carto
 tags: [Puzzle]
 
 ---
-
-# Carto
 
 ## Marketing
 

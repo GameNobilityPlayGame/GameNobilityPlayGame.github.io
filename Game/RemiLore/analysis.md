@@ -1,10 +1,10 @@
 ---
-layout: base
+layout: page
+title: RemiLore
 tags: [Roguelite]
 
 ---
 
-# RemiLore
 
 ## Marketing
 

@@ -1,10 +1,9 @@
 ---
-layout: base
+layout: page
+title: Eastward
 tags: [RPG, Pixel]
 
 ---
-
-# Eastward
 
 ## Marketing
 
