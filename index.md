@@ -29,6 +29,8 @@ layout: base
             一頁式提案
           {% elsif page.url contains "analysis" %}
             分析
+          {% else %}
+            心得
           {% endif %}
           
         </a><br>

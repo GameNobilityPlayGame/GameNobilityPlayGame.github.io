@@ -1,15 +1,10 @@
 ---
 layout: base
-tags: [Relaxing]
+tags: [Roguelite]
 
 ---
 
-# Cozy Grove
-
-[Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
-
-
-## [一頁式提案](./proposal)
+# RemiLore
 
 ## Marketing
 
@@ -75,12 +70,9 @@ tags: [Relaxing]
     * 邪教意象很強烈
     * 隨然營造邪教的恐怖氛圍 卻非常可愛
 
-## 備註
-* 此分析使用遊玩時間：2 hr
-* 遊玩難度：medium
-* 舉例產品：[RemiLore: Lost Girl in the Lands of Lore](https://store.steampowered.com/app/995240/RemiLore_Lost_Girl_in_the_Lands_of_Lore/)\
 
 
 ## 循環系統
 
 <iframe class="my-iframe" width="800" height="1300" src="mechanism.html"></iframe> 
+

@@ -1,10 +1,9 @@
 ---
 layout: base
-tags: [Relaxing]
+title: Carto
+tags: [Puzzle]
 
 ---
-
-# Cozy Grove
 
 [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 

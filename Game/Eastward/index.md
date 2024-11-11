@@ -4,7 +4,7 @@ tags: [RPG, Pixel]
 
 ---
 
-# Cult of the Lamb
+# Eastward
 
 [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 

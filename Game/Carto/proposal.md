@@ -1,7 +1,8 @@
 ---
 layout: page/design/proposal-zh
-title: Test
-tags: [_Template]
+title: Cult of the Lamb
+tags: [Puzzle]
+
 
 
 System: "<li>Rogue-lite<br>

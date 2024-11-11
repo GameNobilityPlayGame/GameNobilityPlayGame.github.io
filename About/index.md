@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+
+
 ## V的設定
 * 名稱：叡智の木
 * 稱號：叡智を築く者

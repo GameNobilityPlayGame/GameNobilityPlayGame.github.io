@@ -1,6 +1,6 @@
 ---
 layout: page/design/proposal-zh
-title: Cult of the Lamb
+title: RemiLore
 tags: [Roguelite]
 
 

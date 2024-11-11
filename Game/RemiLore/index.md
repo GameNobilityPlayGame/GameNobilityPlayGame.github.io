@@ -4,7 +4,7 @@ tags: [Roguelite]
 
 ---
 
-# Cult of the Lamb
+# RemiLore
 
 [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 
