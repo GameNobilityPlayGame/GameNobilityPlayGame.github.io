@@ -32,7 +32,7 @@ tags: [Roguelite]
 
 ||Helpful|Harmful|
 |-|-|-|
-|Internal|* 操作直覺<br> * 打擊感細節|* **嚴重BUG** <br>* 預設對PC不友善|
+|Internal|* 操作直覺<br> * 打擊感細節|* <br>* 預設對PC不友善|
 |External|* 培養系統<br> * 畫風獨特 |* Rogue度不足|
 
 ### 詳細描述
@@ -40,10 +40,6 @@ tags: [Roguelite]
   * 對PC不友善(遊戲預設手把)
     * 預設鍵盤位置沒有考量鍵盤滑鼠玩家習慣，需要人工自己設定一套
     * 多功能都bind到同一個按鍵，卻要多重設定
-  * 嚴重BUG
-    * 儀式容易卡住
-      * 結束關卡當機導致需要重玩整輪
-      * 教徒遺失嚴重影響遊戲遊玩體驗
   * Rogue度不足
     * 武器種類少(相較於RemiLore)
     * ARPG要素為主
@@ -70,9 +66,4 @@ tags: [Roguelite]
     * 邪教意象很強烈
     * 隨然營造邪教的恐怖氛圍 卻非常可愛
 
-
-
-## 循環系統
-
-<iframe class="my-iframe" width="800" height="1300" src="mechanism.html"></iframe> 
 

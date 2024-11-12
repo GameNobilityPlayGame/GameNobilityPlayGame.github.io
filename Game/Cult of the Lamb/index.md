@@ -5,16 +5,21 @@ tags: [Roguelite]
 
 ---
 
-[Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
+[Steam - Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
+
+### [分析](./analysis)
+
+
+## 整體評分 ★★★☆
 
 |Item|Score|
 |-|-|
-整體節奏 | ★★★☆  (3.5/5.0)
-音樂  | ★★★  (3.0/5.0)
-畫風 | ★★★★  (4.0/5.0)
-世界觀 | ★★★☆  (3.5/5.0)
-劇情 | ★★★☆  (3.5/5.0)
-操作感 | ★★★☆  (3.5/5.0)
+打擊感 | ★★★★★
+世界觀 | ★★★★
+音樂  | ★★★
+畫風 | ★★★★
+劇情 | ★★☆
+
 
 
 ## 備註

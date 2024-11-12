@@ -1,0 +1,21 @@
+<script src="https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js"></script>
+
+<script>
+  // Initialize Mermaid
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+<div class="mermaid">
+graph TD
+    subgraph Game Cycle
+      進入(熊仔壽司Bar) --> 客人(招攬客人);
+      客人 --> 收入;
+      收入 --> 升級;
+      升級 --> 升級店面;
+      升級店面 --> 提升利潤;
+      提升利潤 --> 收入;
+      升級店面 --> 威望;
+      威望 --> 開啟可升級項目;
+      開啟可升級項目 --> 升級;
+    end
+</div>

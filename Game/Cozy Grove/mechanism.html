@@ -3,23 +3,17 @@
 <div class="mermaid">
 %% Code for flowchart below
 graph TD
-    subgraph Flywheel Effect
-        yt((Youtube<br>Twitch))
-        fan((Iron Fans))
-        dc((Discord))
-        game((Game Writing))
-        pay{{Patreon}}
-        learn((Learning<br>New Concept))
-        yt -- value --> fan
-        fan ==> pay
-        dc ==> game
-        game ==> learn
-        learn ==> yt
-        pay ==> dc
-
-        update -.-> pay
-        game -.-> yt
-        game -.-> update      
+    subgraph Game Flow
+        進入遊戲 --> 地圖探索;
+        地圖探索 --> 蒐集物品;
+        地圖探索 --> NPC;
+        NPC --> 願望;
+        願望 --> 地圖探索;
+        蒐集物品 --> NPC;
+        蒐集物品 --> 製作/販售;
+        製作/販售 --> 營地升級;
+        NPC --> 事件解決;
+        事件解決 --> 營地升級; 
         end
 
 </div>
