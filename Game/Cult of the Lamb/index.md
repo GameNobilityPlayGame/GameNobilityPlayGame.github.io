@@ -1,11 +1,9 @@
 ---
-layout: base
+layout: page
 title: Cult of the Lamb
 tags: [Roguelite]
 
 ---
-
-# Cult of the Lamb
 
 [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 

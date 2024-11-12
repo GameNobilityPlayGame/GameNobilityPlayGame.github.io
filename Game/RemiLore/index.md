@@ -1,11 +1,9 @@
 ---
-layout: base
+layout: page
 title: RemiLore
 tags: [Roguelite]
 
 ---
-
-# RemiLore
 
 [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 

@@ -1,9 +1,14 @@
 <script src="https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js"></script>
 
+<script>
+    // Initialize Mermaid
+    mermaid.initialize({ startOnLoad: true });
+</script>
+
 <div class="mermaid">
 %% Code for flowchart below
 graph TD
-    subgraph Flywheel Effect
+    subgraph Game Cycle
         yt((Youtube<br>Twitch))
         fan((Iron Fans))
         dc((Discord))

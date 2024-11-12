@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LatticeMage
-email: latticemage@gmail.com
+title: GameNobility
+email: info@gamenobility.club
 url: https://GameNobilityPlayGame.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 description: Game Nobility Play Game
