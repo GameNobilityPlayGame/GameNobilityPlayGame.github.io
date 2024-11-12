@@ -1,8 +1,12 @@
 ---
 layout: base
+title: 貴族玩遊戲
 ---
-## [遊戲列表](./Game/)
+
+## [清單](./Game/)
+
 ## Tags分類
+
 <ul>
   {% assign game_pages = site.pages | where_exp: "page", "page.url contains '/Game/'" %}
   
